@@ -1,4 +1,4 @@
-module colossus21/gopdf
+module github.com/colossus21/gopdf
 
 go 1.12
 
